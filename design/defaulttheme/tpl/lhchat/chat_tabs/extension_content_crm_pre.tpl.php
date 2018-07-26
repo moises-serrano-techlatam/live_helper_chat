@@ -1,0 +1,1 @@
+<?php $extension_content_crm_enabled = true;?>
